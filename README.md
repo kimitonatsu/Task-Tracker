@@ -12,3 +12,6 @@ A simple CL task manager built in Python by an outsize programmer.
 ## How to run
 ```bash
 python main.py
+
+### Github Project URL
+https://github.com/kimitonatsu/Task-Tracker/edit/main/README.md
