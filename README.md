@@ -1,6 +1,6 @@
 # Task Manager CLI
 
-A simple CL task manager built in Python by an outsize programmer. 
+A simple CL task manager built in Python by an outsize programmer.
 
 ## Features
 - Add tasks
@@ -13,5 +13,5 @@ A simple CL task manager built in Python by an outsize programmer.
 ```bash
 python main.py
 
-### Github Project URL
-https://github.com/kimitonatsu/Task-Tracker/edit/main/README.md
+### Project Instructions URL
+[https://github.com/kimitonatsu/Task-Tracker/edit/main/README.md](https://roadmap.sh/projects/task-tracker)
